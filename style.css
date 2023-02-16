@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+body{
+    background: linear-gradient(#01012a, #5d63f5);
+    background-repeat: no-repeat;
+    height: 842px;
+    overflow: hidden;
+    margin: 0;
+}
+
+.header{
+    margin: 0px;
+    background-color: rgb(1, 56, 26);
+    height: 11% ;
+    display: flex;
+}
+.logo{
+    display: flex;
+    height: 100%;
+    width: 25%;
+    background-color: aqua;
+}
+
+.titre{
+    display: flex;
+    height: 100%;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    }
+.nom{
+    font-family: 'Jockey one' ;
+    font-size: 36px;
+    color:white
+
+}
